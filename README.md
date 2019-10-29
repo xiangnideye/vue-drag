@@ -1,4 +1,4 @@
-# vue-select
+# vue-drag
 
 ## Project setup
 ```
